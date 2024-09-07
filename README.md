@@ -4,7 +4,7 @@ I'm Godwin an experienced API/Technical Product Manager from Nigeria. I enjoy le
 
 ### Hi there 👋, Godwin Attah
 #### API Product Manager/Technical Product Manager
-![API Product Manager/Technical Product Manager](https://www.linkedin.com/in/godwinattahpmp/overlay/background-image/)
+![API Product Manager/Technical Product Manager](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Godwin an experienced API/Technical Product Manager from Nigeria. I enjoy learning languages like HTML, CSS, Python, JavaScript, and Node.js not necessarily because I want to be a full-time developer but because I want to use technical skills to build scaleable high-performing platforms that solve our users problems. 
 You can check out my LinkedIn at www.linkedin.com/in/godwinattahpmp.
