@@ -4,7 +4,7 @@
 ## API Product Manager/Technical Product Manager
 
 I'm Godwin an experienced API/Technical Product Manager from Nigeria. I enjoy learning languages like HTML, CSS, Python, JavaScript, and Node.js not necessarily because I want to be a full-time developer but because I want to use my technical skills to build scaleable high-performing platforms that solve our users problems. 
-You can check out my LinkedIn at www.linkedin.com/in/godwinattahpmp.
+
 
 ## Skills
 
@@ -16,11 +16,14 @@ You can check out my LinkedIn at www.linkedin.com/in/godwinattahpmp.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
  
 
 
 # - 🔭 You can find me on any of these pages. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GodwinAttah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/godwinattahpmp/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@godyattah/)  
