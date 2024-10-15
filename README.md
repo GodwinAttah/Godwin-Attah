@@ -4,7 +4,7 @@
 ## API Product Manager/Technical Product Manager
 
 I'm Godwin Attah, an experienced API/Technical Product Manager from Nigeria. I have a passion for learning and coding in languages like HTML, CSS, Python, Django, JavaScript, and Node.js. While I’m not aiming to be a full-time developer, I leverage these technical skills to build scalable, high-performing platforms that effectively address user challenges while 
-minimizing technical debt.
+minimizing technical debt. 
 
 ## Skills
 
