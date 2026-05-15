@@ -1,9 +1,9 @@
 # Godwin Attah
-![API Product Manager/Technical Product Manager](https://media.licdn.com/dms/image/v2/D4D16AQGoUdEjoPvt8A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725722416149?e=1730937600&v=beta&t=0JtidzB5wewnw58zPXAQjF1NeMOPIOPry94hdENKhF4)
+![AI Product Manager/Technical Product Manager](https://media.licdn.com/dms/image/v2/D4D16AQGoUdEjoPvt8A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725722416149?e=1730937600&v=beta&t=0JtidzB5wewnw58zPXAQjF1NeMOPIOPry94hdENKhF4)
 
 ## AI Product Manager/Technical Product Manager
 
-I'm Godwin Attah, an experienced API/Technical Product Manager from Nigeria. I have a passion for learning and coding in languages like HTML, CSS, Python, Django, JavaScript, and Node.js. While I’m not aiming to be a full-time developer, I leverage these technical skills to build scalable, high-performing platforms that effectively address user challenges while minimizing technical debt.
+I'm Godwin Attah, an experienced AI/Technical Product Manager from Nigeria. I have a passion for learning and coding in languages like HTML, CSS, Python, Django, JavaScript, and Node.js. While I’m not aiming to be a full-time developer, I leverage these technical skills to build scalable, high-performing platforms that effectively address user challenges while minimizing technical debt.
 
 ## Skills
 
